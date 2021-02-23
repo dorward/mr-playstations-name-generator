@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mr-playstations-name-generator/static/css/main.c3f680c6.chunk.css",
+    "main.js": "/mr-playstations-name-generator/static/js/main.37312085.chunk.js",
+    "main.js.map": "/mr-playstations-name-generator/static/js/main.37312085.chunk.js.map",
+    "runtime-main.js": "/mr-playstations-name-generator/static/js/runtime-main.e6dcbcc8.js",
+    "runtime-main.js.map": "/mr-playstations-name-generator/static/js/runtime-main.e6dcbcc8.js.map",
+    "static/js/2.1d5a0fcd.chunk.js": "/mr-playstations-name-generator/static/js/2.1d5a0fcd.chunk.js",
+    "static/js/2.1d5a0fcd.chunk.js.map": "/mr-playstations-name-generator/static/js/2.1d5a0fcd.chunk.js.map",
+    "static/js/3.909e68c2.chunk.js": "/mr-playstations-name-generator/static/js/3.909e68c2.chunk.js",
+    "static/js/3.909e68c2.chunk.js.map": "/mr-playstations-name-generator/static/js/3.909e68c2.chunk.js.map",
+    "index.html": "/mr-playstations-name-generator/index.html",
+    "static/css/main.c3f680c6.chunk.css.map": "/mr-playstations-name-generator/static/css/main.c3f680c6.chunk.css.map",
+    "static/js/2.1d5a0fcd.chunk.js.LICENSE.txt": "/mr-playstations-name-generator/static/js/2.1d5a0fcd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6dcbcc8.js",
+    "static/js/2.1d5a0fcd.chunk.js",
+    "static/css/main.c3f680c6.chunk.css",
+    "static/js/main.37312085.chunk.js"
+  ]
+}
